@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Mike and I'm in my last semester at university (graduating May 2022 with a BS in CS).  My interests are machine learning, mathematics, and music.  
+My name is Mike and I just graduated this year with a BS in CS.  My interests besides programming include mathematics, hiking in the mountains, and making music.  
 Here are some of the technologies I've used:
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
