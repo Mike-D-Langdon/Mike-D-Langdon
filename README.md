@@ -1,5 +1,5 @@
 ### Oh Hello
-I didn't see you there.  My name is Mike and I am a graduate of Cal State East Bay with a BS in Computer Science (2022).   
+I didn't see you there.  My name is Mike.   
 - 🔭 I’m currently working on a delay VST.
 - 🌱 I’m currently learning the JUCE framework for writing audio plugins in C++.
 - 👯 I’m interested in music, math, mountains, and metal.  And movies.  Horror movies.
